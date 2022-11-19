@@ -1,0 +1,13 @@
+Mô tả ứng dụng:
+
+1- Tạo ứng dụng theo dõi thông tin sinh viên gồm các thông tin: Họ tên và email
+2- Các chức năng chính:
+- Hiển thị danh sách sinh viên có trong database (mySQL)
+- Chức năng nhập vào sinh viên mới
+- Chức năng update, delete và search sinh viên theo tên
+
+3- Kỹ thuật sử dụng:
+- Java EE (release 17)
+- Tomcat server 9.0
+- Sử dụng mô hình MVC (jsp & servlet)
+- Kết nối database (mysql 8.0)
